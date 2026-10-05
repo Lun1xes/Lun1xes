@@ -21,27 +21,17 @@
   <a href="https://github.com/Lun1xes" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://t.me/S1n1xx" target="_blank">
+  <a href="https://t.me/yapianiy" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://discord.com" target="_blank">
+  <a href="https://discord.com/users/508531766961897472" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://steamcommunity.com/id/S1n1xx" target="_blank">
+  <a href="https://steamcommunity.com/profiles/76561199067303674" target="_blank">
     <img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
-  <a href="https://anilist.co/user/S1n1xx" target="_blank">
-    <img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white" alt="AniList" />
-  </a>
-  <a href="https://open.spotify.com" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-  </a>
-</p>
-
-<!-- CODING PIXEL ART -->
-<p align="center">
-  <a href="https://github.com/Lun1xes">
-    <img src="https://raw.githubusercontent.com/JoshuaThadi/Wall-E-Desk/main/Pixel-Art/codes.gif" width="480" alt="Coding Pixel Art" />
+  <a href="https://animix.lol/profile/Luchik_ll" target="_blank">
+    <img src="https://img.shields.io/badge/AniMix-FF2E93?style=for-the-badge" alt="AniMix" />
   </a>
 </p>
 
