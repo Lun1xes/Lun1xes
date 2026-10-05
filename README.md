@@ -2,14 +2,14 @@
 
 <!-- HEADER CAPSULE BANNER -->
 <p align="center">
-  <a href="https://github.com/S1N1XX">
+  <a href="https://github.com/Lun1xes">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:2d124d,30:7928ca,70:ff0080,100:ff4081&height=220&section=header&text=Welcome%20to%20my%20Realm&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Anime%20Enthusiast%20%7C%20Dreamer&descSize=18&descAlignY=68" width="100%" alt="Header Banner" />
   </a>
 </p>
 
 <!-- ANIME HERO ARTWORK / BANNER -->
 <p align="center">
-  <a href="https://github.com/S1N1XX">
+  <a href="https://github.com/Lun1xes">
     <img src="https://raw.githubusercontent.com/JoshuaThadi/Wall-E-Desk/main/Pixel-Art/night%20walk.gif" width="100%" alt="Anime Night Walk Banner" />
   </a>
 </p>
@@ -17,14 +17,14 @@
 
 <!-- PROFILE VIEWS COUNTER -->
 <p align="center">
-  <a href="https://github.com/S1N1XX">
-    <img src="https://komarev.com/ghpvc/?username=S1N1XX&style=for-the-badge&color=ff79c6&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/Lun1xes">
+    <img src="https://komarev.com/ghpvc/?username=Lun1xes&style=for-the-badge&color=ff79c6&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
 </p>
 
 <!-- SOCIAL & CONNECT BADGES -->
 <p align="center">
-  <a href="https://github.com/S1N1XX" target="_blank">
+  <a href="https://github.com/Lun1xes" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://t.me/S1n1xx" target="_blank">
@@ -57,7 +57,7 @@
 
 <!-- ALL SKILLS RIBBON -->
 <p>
-  <a href="https://github.com/S1N1XX?tab=repositories">
+  <a href="https://github.com/Lun1xes?tab=repositories">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,python,git,github,vscode,figma&theme=dark" alt="Tech Stack Icons" />
   </a>
 </p>
@@ -90,17 +90,17 @@
 <div align="center">
 
 <p align="center">
-  <a href="https://github.com/S1N1XX">
-    <img src="https://github-readme-stats.vercel.app/api?username=S1N1XX&show_icons=true&theme=radical&border_color=ff79c6&bg_color=0d1117&title_color=ff79c6&icon_color=bd93f9&text_color=e2e8f0&border_radius=12&include_all_commits=true" alt="GitHub Stats" />
+  <a href="https://github.com/Lun1xes">
+    <img src="https://github-readme-stats.vercel.app/api?username=Lun1xes&show_icons=true&theme=radical&border_color=ff79c6&bg_color=0d1117&title_color=ff79c6&icon_color=bd93f9&text_color=e2e8f0&border_radius=12&include_all_commits=true" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/S1N1XX?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S1N1XX&layout=compact&border_color=bd93f9&bg_color=0d1117&title_color=ff79c6&text_color=e2e8f0&border_radius=12" alt="Top Languages" />
+  <a href="https://github.com/Lun1xes?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lun1xes&layout=compact&border_color=bd93f9&bg_color=0d1117&title_color=ff79c6&text_color=e2e8f0&border_radius=12" alt="Top Languages" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/S1N1XX">
-    <img src="https://streak-stats.demolab.com/?user=S1N1XX&theme=radical&background=0D1117&border=FF79C6&stroke=FF79C6&ring=BD93F9&fire=FF79C6&currStreakLabel=BD93F9&border_radius=12" alt="Streak Stats" />
+  <a href="https://github.com/Lun1xes">
+    <img src="https://streak-stats.demolab.com/?user=Lun1xes&theme=radical&background=0D1117&border=FF79C6&stroke=FF79C6&ring=BD93F9&fire=FF79C6&currStreakLabel=BD93F9&border_radius=12" alt="Streak Stats" />
   </a>
 </p>
 
@@ -111,7 +111,7 @@
 
 <!-- FOOTER CAPSULE BANNER -->
 <div align="center">
-  <a href="https://github.com/S1N1XX">
+  <a href="https://github.com/Lun1xes">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:2d124d,30:7928ca,70:ff0080,100:ff4081&height=120&section=footer" width="100%" alt="Footer Banner" />
   </a>
   <p><b>✨ Спасибо за визит! Не забудь поставить ⭐ репозиторию, если тебе понравился профиль! ✨</b></p>
