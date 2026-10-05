@@ -38,6 +38,13 @@
   </a>
 </p>
 
+<!-- CODING PIXEL ART -->
+<p align="center">
+  <a href="https://github.com/Lun1xes">
+    <img src="https://raw.githubusercontent.com/JoshuaThadi/Wall-E-Desk/main/Pixel-Art/codes.gif" width="480" alt="Coding Pixel Art" />
+  </a>
+</p>
+
 </div>
 
 
