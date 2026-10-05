@@ -1,11 +1,5 @@
 <div align="center">
 
-<!-- HEADER CAPSULE BANNER -->
-<p align="center">
-  <a href="https://github.com/Lun1xes">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:2d124d,30:7928ca,70:ff0080,100:ff4081&height=220&section=header&text=Welcome%20to%20my%20Realm&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Anime%20Enthusiast%20%7C%20Dreamer&descSize=18&descAlignY=68" width="100%" alt="Header Banner" />
-  </a>
-</p>
 
 <!-- ANIME HERO ARTWORK / BANNER -->
 <p align="center">
