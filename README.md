@@ -40,9 +40,9 @@
 
 ---
 
-### 💻 ✧･ﾟ: \*✧･ﾟ:\* &nbsp; **Т Е Х Н О Л О Г И И &nbsp; (ＴＥＣＨ  ＳＴＡＣＫ)** &nbsp; \*:･ﾟ✧\*:･ﾟ✧
-
 <div align="center">
+
+<h3 align="center">💻 ✧･ﾟ: *✧･ﾟ:* &nbsp; ТЕХНОЛОГИИ (TECH STACK) &nbsp; *:･ﾟ✧*:･ﾟ✧</h3>
 
 <p><b>✨ Все используемые инструменты &amp; технологии:</b></p>
 
@@ -76,9 +76,9 @@
 
 ---
 
-### 📊 ✧･ﾟ: \*✧･ﾟ:\* &nbsp; **С Т А Т И С Т И К А &nbsp; (ＳＴＡＴＳ  ＆  ＡＣＴＩＶＩＴＹ)** &nbsp; \*:･ﾟ✧\*:･ﾟ✧
-
 <div align="center">
+
+<h3 align="center">📊 ✧･ﾟ: *✧･ﾟ:* &nbsp; СТАТИСТИКА (STATS & ACTIVITY) &nbsp; *:･ﾟ✧*:･ﾟ✧</h3>
 
 <p align="center">
   <a href="https://github.com/Lun1xes">
